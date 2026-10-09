@@ -1,0 +1,8 @@
+{
+  "name": "NMIT Campus Canteen Store",
+  "description": "A verified peer-to-peer campus marketplace for students to buy and sell textbooks, notes, electronics, cycles, lab gear, and hostel essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
